@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "key": "LOC_TITLE",
+      "value": "Title"
+    },
+    {
+      "key": "LOC_MSG",
+      "value": "This is a message"
+    },
+    {
+      "key": "LOC_DESC",
+      "value": "This is a description"
+    }
+  ]
+}
